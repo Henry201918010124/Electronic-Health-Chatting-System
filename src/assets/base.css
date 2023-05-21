@@ -1,0 +1,251 @@
+.container {
+  margin-left: 15% !important;
+  margin-right: 15% !important;
+}
+
+.mt-1 {
+  margin-top: 1px;
+}
+
+.mt-2 {
+  margin-top: 2px;
+}
+
+.mt-3 {
+  margin-top: 3px;
+}
+
+.mt-4 {
+  margin-top: 4px;
+}
+
+.mt-5 {
+  margin-top: 5px;
+}
+.card {
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  min-width: 500px;
+  max-width: 100%;
+  display: inline-block;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mt-5rem {
+  margin-top: 5rem;
+}
+
+.hand {
+  cursor: pointer;
+}
+
+.text-primary {
+  color: #007bff;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.ps-12 {
+  font-size: 12px;
+}
+
+.bold-font {
+  font-weight: bold;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-flow-row-reverse {
+  flex-flow: row-reverse;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.pl-1 {
+  padding-left: 1rem;
+}
+
+.pr-1 {
+  padding-right: 1rem;
+}
+
+.mr-3 {
+  margin-right: 3px;
+}
+
+.mr-3rem {
+  margin-right: 3rem;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+.mb-2 {
+  margin-bottom: 2px;
+}
+.logo-font {
+  font-family: "阿里妈妈数黑体 Bold";
+  font-weight: 700;
+  font-size: 2rem;
+  color: #007bff;
+}
+
+@font-face {
+  font-family: "阿里妈妈数黑体 Bold";
+  font-weight: 700;
+  src: url("//at.alicdn.com/wf/webfont/IXNd7bYWB0O6/3S-wRe7Yb-Gh6MlspTesW.woff2")
+      format("woff2"),
+    url("//at.alicdn.com/wf/webfont/IXNd7bYWB0O6/v1vZTY6sJ1G_UcFG9r4BW.woff")
+      format("woff");
+  font-display: swap;
+}
+
+.mt-2rem {
+  margin-top: 2rem;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.font-size-18 {
+  font-size: 18px;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.tab {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.tab-active {
+  color: #00c792;
+  font-weight: 500;
+}
+
+.tab:hover {
+  color: #00c792;
+}
+
+.primary-btn {
+  color: white;
+  background-color: #00c792;
+  border-radius: 5px;
+  height: 40px;
+  border: none;
+  font-size: 16px;
+}
+
+.primary-btn:hover {
+  background-color: #00a77a;
+}
+
+.department-description {
+  background: lavender;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 900;
+  border-radius: 5px;
+  text-align: justify;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.justify-content-sb {
+  justify-content: space-between;
+}
+
+.ml-1 {
+  margin-left: 1px;
+}
+
+.ml-2 {
+  margin-left: 2px;
+}
+
+.ml-3 {
+  margin-left: 3px;
+}
+
+.ml-4 {
+  margin-left: 4px;
+}
+
+.ml-5 {
+  margin-left: 5px;
+}
+
+.mr-1 {
+  margin-right: 1px;
+}
+
+.mr-2 {
+  margin-right: 2px;
+}
+
+.mr-3 {
+  margin-right: 3px;
+}
+
+.mr-4 {
+  margin-right: 4px;
+}
+
+.mr-5 {
+  margin-right: 5px;
+}
+
+.img-50 {
+  width: 50px;
+  height: 50px;
+}
+
+.rounded-circle {
+  border-radius: 50%;
+}
+p {
+  margin-bottom: 0;
+}
