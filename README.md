@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Serve：Please click the link below to access the backend code.
+https://github.com/Henry201918010124/Electronic-Health-Chatting-System-Server
