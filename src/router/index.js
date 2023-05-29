@@ -23,7 +23,7 @@ const routes = [
     name: "Login",
     component: Login,
     meta: {
-      title: "用户登录",
+      title: "User login ",
     },
   },
   {
@@ -31,7 +31,7 @@ const routes = [
     name: "Register",
     component: Register,
     meta: {
-      title: "用户注册",
+      title: "User registration",
     },
   },
   {
@@ -123,7 +123,7 @@ router.beforeEach((to, from, next) => {
   if (notLoginPage.indexOf(to.name) == -1 && !token) {
     next({ name: "Login" });
     Message({
-      message: "请先登录！",
+      message: "Please login first！",
       type: "warning",
     });
   } else next();
