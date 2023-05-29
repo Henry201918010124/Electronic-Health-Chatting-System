@@ -10,7 +10,7 @@ import "@/assets/base.css";
 
 Vue.use(VueRouter);
 
-// 解决路由redirect报错(redirect报错不会影响正常功能但是看着就是很烦)
+// Resolve the redirect error
 // const originalPush = Router.prototype.push
 // Router.prototype.push = function push(location, onResolve, onReject) {
 //     if (onResolve || onReject) return originalPush.call(this, location, onResolve, onReject)
